@@ -77,23 +77,7 @@ flutter run
 
 
 ```
-lib/
-├── main.dart
-├── app/
-│   └── app.dart              # App entry, routing, theme
-├── features/
-│   ├── auth/                 # Login, registration
-│   ├── home/                 # Restaurant listing
-│   ├── menu/                 # Menu browsing & cart
-│   ├── orders/               # Order placement & tracking
-│   └── profile/              # User account & history
-├── shared/
-│   ├── widgets/              # Reusable UI components
-│   ├── models/               # Data models
-│   └── services/             # Firebase, maps, payment services
-└── core/
-    ├── theme/                # Colors, typography, dark mode
-    └── constants/            # App-wide constants
+<pre> ```text lib/ ├── main.dart ├── app/ │ └── app.dart # App entry, routing, theme ├── features/ │ ├── auth/ # Login, registration │ ├── home/ # Restaurant listing │ ├── menu/ # Menu browsing & cart │ ├── orders/ # Order placement & tracking │ └── profile/ # User account & history ├── shared/ │ ├── widgets/ # Reusable UI components │ ├── models/ # Data models │ └── services/ # Firebase, maps, payment services └── core/ ├── theme/ # Colors, typography, dark mode └── constants/ # App-wide constants ``` </pre>
 
     
 
