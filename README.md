@@ -74,6 +74,8 @@ flutter run
 ---
 
 ## 📁 Project Structure
+
+
 ```
 lib/
 ├── main.dart
@@ -92,6 +94,8 @@ lib/
 └── core/
     ├── theme/                # Colors, typography, dark mode
     └── constants/            # App-wide constants
+
+    
 
 🧭 Usage
 Customers: Sign up / log in → Browse nearby restaurants → Add items to cart → Pay securely → Track order live
